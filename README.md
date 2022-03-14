@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Alex Collado Rojas  :octocat: github.com/LegalyAlexander    
+ * :bust_in_silhouette:  Esther García Gallego     :octocat: github.com/stardusther
 
 ----- 
 
