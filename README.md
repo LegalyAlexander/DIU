@@ -28,7 +28,13 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a <a href="https://github.com/LegalyAlexander/DIU/blob/master/P1/Análisis%20Competititvidad%204UHostel.pdf">Competitive Analysis</a>
 ----- 
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Los hosteles elegidos para el Análisis de Competitividad fueron:
+St. Cristopher Barcelona
+TOC Hostel Madrid
+
+Estos hosteles fueron elegidos ya que al igual que 4UHostel se encuentran en la zona central de sus respectivas ciudades, normalmente por las valoraciones vistas en sus páginas los usuarios que se suelen alojar en estos son personas jóvenes.
+
+Dentro de los tres hosteles el elegido fue el 4U Hostel ya que es una mejor calidad/precio respecto a los otros dos anteriores, además le suma un valor que tenga un parking cerca. Los otros hosteles suelen rondar por un precio mayor y sus páginas de reserva suelen ser confusas
 
 [Método UX] 1.b Persona
 <img src="/img/Persona1.jpg" alt="Danna"/><br>
