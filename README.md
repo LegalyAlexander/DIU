@@ -36,7 +36,7 @@ Estos hosteles fueron elegidos ya que al igual que 4UHostel se encuentran en la 
 
 Dentro de los tres hosteles el elegido fue el 4U Hostel ya que es una mejor calidad/precio respecto a los otros dos anteriores, además le suma un valor que tenga un parking cerca. Los otros hosteles suelen rondar por un precio mayor y sus páginas de reserva suelen ser confusas
 
-[Método UX] 1.b Persona
+![Método UX](img/Persona.png) 1.b Persona
 <img src="/img/Persona1.jpg" alt="Danna"/><br>
 Primero que todo hemos seleccionado a Danna ya que su personalidad es bastante extrovertida al ser una influencer, que le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas.
 <img src="/img/Persona2.jpg" alt="Luis"/><br>
