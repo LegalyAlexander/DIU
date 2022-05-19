@@ -71,7 +71,7 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 ----
 
 
-<img src="/img/EmpatyMap.JPG" alt="EmpMap"/><br>
+<img src="/img/EmpathyMap.JPG" alt="EmpMap"/><br>
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
