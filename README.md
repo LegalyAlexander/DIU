@@ -12,7 +12,7 @@ Descripción:
 El hostel ahora aumentará su valor turístico ofreciendo a todo tipo de personas eventos semanales. Los eventos pueden ser desde standups de comedia, mini conciertos en vivo o cualquier actividad que pueda ofrecer una nueva experiencia a los usuarios.
 
 Logotipo: 
-<img src="/img/4U_Eventos.jpg" alt="Eventos4U"/>
+<br><img src="/img/4U_Eventos.jpg" alt="Eventos4U"/>
 
 Miembros
  * :bust_in_silhouette:   Alexander Collado Rojas  :octocat: github.com/LegalyAlexander    
