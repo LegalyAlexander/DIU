@@ -34,7 +34,7 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-![Método UX] 1.b Persona
+[Método UX] 1.b Persona
 <img src="/img/Persona1.jpg" alt="Danna"/><br>
 Primero que todo hemos seleccionado a Danna ya que su personalidad es bastante extrovertida al ser una influencer, que le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas.
 <img src="/img/Persona2.jpg" alt="Luis"/><br>
@@ -42,14 +42,16 @@ De segundo hemos elegido a Luis ya que aunque sea un poco introvertido quiere sa
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 Journey Map Danna:
-<img src="/img/journey map_page-0001.jpg" alt="JourneyDanna"/><br>
+<img src="/img/journey map_page-0002.jpg" alt="JourneyDanna"/><br>
 
 Journey Map Luis:
-<img src="/img/journey map_page-0002.jpg" alt="JourneyLuis"/><br>
+<img src="/img/journey map_page-0001.jpg" alt="JourneyLuis"/><br>
 
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+En Danna se eligió este Journey Map porque para una influencer grabar en un nuevo sitio siempre es bueno, pero Danna necesita la información del lugar mientras realiza su reserva, al ir a un lugar que no conoce le gustaría saber de parte del personal todo lo principal del sitio.
+
+En Luis se eligió ese Journey Map ya que como él es introvertido no se quedaría en un hostel solo sino que viajará con sus amigos, en este Journey Map se pone a prueba la capacidad del Hostel para poder así lidiar con su problema auditivo
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
