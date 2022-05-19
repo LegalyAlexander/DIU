@@ -21,16 +21,12 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+![Método UX](img/Competitive.png) 1.a <a href="https://github.com/LegalyAlexander/DIU/blob/master/P1/Análisis%20Competititvidad%204UHostel.pdf">Competitive Analysis</a>
+----- 
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
