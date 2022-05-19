@@ -98,7 +98,7 @@ Analisis de tareas:
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 Sitemap:
-<br><img src="/img/SiteMap.JPG" alt="SiteMap"/>
+<br><img src="/img/SiteMap.jpg" alt="SiteMap"/>
 
 >>> Identificar términos para diálogo con usuario  
 
@@ -112,9 +112,9 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-<img src="/img/Microsite1.JPG" alt="Micro1"/>
-<img src="/img/Microsite2.JPG" alt="Micro2"/>
-<img src="/img/Microsite3.JPG" alt="Micro3"/>
+<img src="/img/Microsite1.jpg" alt="Micro1"/>
+<img src="/img/Microsite2.jpg" alt="Micro2"/>
+<img src="/img/Microsite3.jpg" alt="Micro3"/>
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
