@@ -41,11 +41,11 @@ Primero que todo hemos seleccionado a Danna ya que su personalidad es bastante e
 De segundo hemos elegido a Luis ya que aunque sea un poco introvertido quiere salir y conocer nuevos lugares con sus amigos, además su discapacidad auditiva muchas veces puede ser un reto para reservar en lugares como 4U Hostel
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-Competitive Map Danna:
-<img src="/img/CompetitiveDanna.jpg" alt="CompetitiveDanna"/><br>
+Journey Map Danna:
+<img src="/img/journey map_page-0001.jpg" alt="JourneyDanna"/><br>
 
-Competitive Map Luis:
-<img src="/img/CompetitiveLuis.jpg" alt="CompetitiveLuis"/><br>
+Journey Map Luis:
+<img src="/img/journey map_page-0002.jpg" alt="JourneyLuis"/><br>
 
 
 
