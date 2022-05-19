@@ -112,7 +112,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-<img src="/img/Microsite1.jpg" alt="Micro1"/>
+<img src="/img/MicroSite1.jpg" alt="Micro1"/>
 <img src="/img/Microsite2.jpg" alt="Micro2"/>
 <img src="/img/Microsite3.jpg" alt="Micro3"/>
 
