@@ -57,8 +57,8 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento:   <a href="https://github.com/LegalyAlexander/DIU/blob/master/P1/Usability%20Review.pdf">UsabilityReview</a>
+>>> - Valoración final (numérica): 90
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
