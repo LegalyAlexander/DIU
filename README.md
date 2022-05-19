@@ -83,7 +83,7 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+<br><img src="/img/ScopeCanvas.jpg" alt="Scopte"/>
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
