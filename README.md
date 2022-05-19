@@ -58,10 +58,10 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
+
 >>> - Enlace al documento:   <a href="https://github.com/LegalyAlexander/DIU/blob/master/P1/Usability%20Review.pdf">UsabilityReview</a>
 >>> - Valoración final (numérica): 90
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Comentario sobre la valoración:  La valoración a la página es un poco alta para lo que en realidad debería ser. Muy poco intuitiva para los usuarios. Al tener dos páginas distintas no se sabe en cual de ellas es en la cual se debe reservar.
 
 
 ## Paso 2. UX Design  
@@ -71,12 +71,7 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+<img src="/img/EmpatyMap.jpg" alt="EmpMap"/><br>
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
