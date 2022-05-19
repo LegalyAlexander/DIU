@@ -5,17 +5,17 @@ Grupo: DIU1_01AABB.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+4U Eventos
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El hostel ahora aumentará su valor turístico ofreciendo a todo tipo de personas eventos semanales. Los eventos pueden ser desde standups de comedia, mini conciertos en vivo o cualquier actividad que pueda ofrecer una nueva experiencia a los usuarios.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Alex Collado Rojas  :octocat: github.com/LegalyAlexander    
+ * :bust_in_silhouette:   Alexander Collado Rojas  :octocat: github.com/LegalyAlexander    
  * :bust_in_silhouette:  Esther García Gallego     :octocat: github.com/stardusther
 
 ----- 
