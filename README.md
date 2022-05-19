@@ -74,10 +74,13 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 <img src="/img/EmpathyMap.JPG" alt="EmpMap"/><br>
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para valor turístico ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para valor turístico?
->>> (150-200 caracteres)
+El problema que se plantea es al falta del 4U Hostel para la realización de eventos. Con esta propuesta el valor turístico del hostel podría incrementar y ser más que solamente hospedar a turistas.
+
+Se plantea que en el área del bar/restaurante del hostel se hagan distintas actividades haciendo así que tanto turistas como locales puedan vivir una experiencia. No solamente las personas hispanohablantes van a poder disfrutar de esto sino cualquier persona como por ejemplo noches de conciertos en vivo, no necesitas entender la música para sentirla.
+
+Tipos de eventos a realizar
+  -StandUp Comedy
+  -Conciertos en vivo
 
 
 
@@ -94,13 +97,16 @@ Analisis de tareas:
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+Sitemap:
+<br><img src="/img/SiteMap.JPG" alt="SiteMap"/>
 
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Home¿?  | Página principal, información sobre los eventos (monólogos, música en vivo, intercambio culturales) que se van a llevar a cabo
+ Reserva¿?  | Página que permite la reserva de un asiento (si hay disponibles) en el evento.
+ Ayuda¿?  | Preguntas frecuentes y formulario de contacto
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
