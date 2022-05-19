@@ -104,15 +104,17 @@ Sitemap:
 
 Término | Significado     
 | ------------- | -------
-  Home¿?  | Página principal, información sobre los eventos (monólogos, música en vivo, intercambio culturales) que se van a llevar a cabo
- Reserva¿?  | Página que permite la reserva de un asiento (si hay disponibles) en el evento.
- Ayuda¿?  | Preguntas frecuentes y formulario de contacto
+  Home  | Página principal, información sobre los eventos (monólogos, música en vivo, intercambio culturales) que se van a llevar a cabo
+ Reserva  | Página que permite la reserva de un asiento (si hay disponibles) en el evento.
+ Ayuda  | Preguntas frecuentes y formulario de contacto
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+<img src="/img/Microsite1.JPG" alt="Micro1"/>
+<img src="/img/Microsite2.JPG" alt="Micro2"/>
+<img src="/img/Microsite3.JPG" alt="Micro3"/>
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
