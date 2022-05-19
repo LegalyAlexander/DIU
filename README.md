@@ -114,8 +114,9 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Moodboard:
+<img src="/img/Moodboard.JPG" alt="Moodboard"/><br>
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
