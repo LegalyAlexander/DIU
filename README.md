@@ -88,7 +88,8 @@ En Luis se eligió ese Journey Map ya que como él es introvertido no se quedar�
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Analisis de tareas:
+<br><img src="/img/TaskAnalysis.JPG" alt="TaskAn"/>
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
