@@ -34,8 +34,8 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-![Método UX](img/Persona.jpeg) 1.b Persona
-<img src="/img/Persona1.jpeg" alt="My cool logo"/>
+![Método UX](img/Persona.jpg) 1.b Persona
+<img src="/img/Persona1.jpg" alt="Danna"/>
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
