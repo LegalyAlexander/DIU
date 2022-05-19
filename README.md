@@ -36,6 +36,7 @@ Miembros
 
 ![Método UX](img/Persona.jpg) 1.b Persona
 <img src="/img/Persona1.jpg" alt="Danna"/>
+<img src="/img/Persona2.jpg" alt="Luis"/>
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
