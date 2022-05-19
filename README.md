@@ -35,14 +35,18 @@ Miembros
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
 ![Método UX] 1.b Persona
-<img src="/img/Persona1.jpg" alt="Danna"/>
+<img src="/img/Persona1.jpg" alt="Danna"/><br>
 Primero que todo hemos seleccionado a Danna ya que su personalidad es bastante extrovertida al ser una influencer, que le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas.
-<img src="/img/Persona2.jpg" alt="Luis"/>
-
+<img src="/img/Persona2.jpg" alt="Luis"/><br>
 De segundo hemos elegido a Luis ya que aunque sea un poco introvertido quiere salir y conocer nuevos lugares con sus amigos, además su discapacidad auditiva muchas veces puede ser un reto para reservar en lugares como 4U Hostel
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+Competitive Map Danna:
+<img src="/img/CompetitiveDanna.jpg" alt="CompetitiveDanna"/><br>
+
+Competitive Map Luis:
+<img src="/img/CompetitiveLuis.jpg" alt="CompetitiveLuis"/><br>
+
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
