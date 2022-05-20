@@ -126,8 +126,8 @@ Término | Significado
 Moodboard:
 <img src="/img/Moodboard.JPG" alt="Moodboard"/><br>
 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Se decide seguir con la misma paleta de colores que la página principal del 4U Hostel.
+Solamente se modificó el logo para que en vez de decir 4U Hostel o 4U Restaurant diga 4U Eventos ya que es la actividad que planteamos para subir el valor turístico
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -138,6 +138,8 @@ Moodboard:
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+<img src="/img/LandingPage.jpg" alt="Moodboard"/><br>
+
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
