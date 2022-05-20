@@ -132,13 +132,13 @@ Solamente se modificó el logo para que en vez de decir 4U Hostel o 4U Restauran
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+<img src="/img/LandingPage.jpg" alt="Moodboard"/><br>
 
-
->>> Plantear Landing Page 
+ 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-<img src="/img/LandingPage.jpg" alt="Moodboard"/><br>
+
 
 
 >>> Estudio de Guidelines y Patrones IU a usar 
