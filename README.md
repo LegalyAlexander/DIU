@@ -36,78 +36,80 @@ Estos hosteles fueron elegidos ya que, al igual que el 4UHostel, se encuentran e
 
 Dentro de los tres hosteles sobresalió el 4U Hostel ya que es una mejor calidad/precio respecto a los otros dos anteriores. Además, su cercanía a un parking le suma valor. Los otros hosteles suelen rondar por un precio mayor y sus páginas de reserva suelen ser confusas
 
-![Método UX](img/Persona.png) 1.b Persona
+### ![Método UX](img/Persona.png) 1.b Persona
 <img src="/img/Persona1.jpg" alt="Danna"/><br>
-Seleccionamos a Danna por su personalidad: al ser una influencer es bastante extrovertida, le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas y a hacer los aesthetic vlogs (blogs de youtube con una estética bonita) que tanto le gustan.
-<img src="/img/Persona2.jpg" alt="Luis"/><br>
-De segundo hemos elegido a Luis ya que, aunque sea un poco introvertido, quiere salir y conocer nuevos lugares con sus amigos. También es debido a su discapacidad auditiva, que muchas veces puede ser un reto para reservar en lugares como 4U Hostel.
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-Journey Map Danna:
+Seleccionamos a Danna por su personalidad: al ser una influencer es bastante extrovertida, le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas y a hacer los aesthetic vlogs (blogs de youtube con una estética bonita) que tanto le gustan.
+
+<img src="/img/Persona2.jpg" alt="Luis"/><br>
+
+De segundo hemos elegido a Luis ya que, aunque es un poco introvertido, quiere salir y conocer nuevos lugares con sus amigos. También es debido a su discapacidad auditiva, que muchas veces puede ser un reto para reservar en lugares como 4U Hostel.
+
+### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+#### Journey Map Danna:
 <img src="/img/journey map_page-0002.jpg" alt="JourneyDanna"/><br>
 
 Se eligió este Journey Map para Danna porque para una influencer grabar en un nuevo sitio siempre es bueno, pero Danna necesita la información del lugar mientras realiza su reserva, al ir a un lugar que no conoce le gustaría saber todo lo posible del sitio y para ello pregunta al personal.
 
-Journey Map Luis:
+#### Journey Map Luis:
 <img src="/img/journey map_page-0001.jpg" alt="JourneyLuis"/><br>
 
 En Luis se eligió ese Journey Map ya que, como es introvertido, no se quedaría en un hostel por sí mismo sino que viajará con sus amigos, que le darán un empujoncito. En este Journey Map se pone a prueba la capacidad del Hostel para lidiar con su problema auditivo y su personalidad introvertida.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+### ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+Revisión de usabilidad:
 
->>> - Enlace al documento:   <a href="https://github.com/LegalyAlexander/DIU/blob/master/P1/Usability%20Review.pdf">UsabilityReview</a>
->>> - Valoración final (numérica): 90
->>> - Comentario sobre la valoración:  La valoración a la página es un poco alta para lo que en realidad debería ser. Muy poco intuitiva para los usuarios. Al tener dos páginas distintas no se sabe en cual de ellas es en la cual se debe reservar.
+- Enlace al documento:   <a href="https://github.com/LegalyAlexander/DIU/blob/master/P1/Usability%20Review.pdf">UsabilityReview</a>
+- Valoración final (numérica): 90
+- Comentario sobre la valoración:  La valoración a la página es un poco alta para lo que en realidad debería ser. Muy poco intuitiva para los usuarios. Al tener dos páginas distintas no se sabe en cual de ellas es en la cual se debe reservar.
 
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+### ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
 
 <img src="/img/EmpathyMap.JPG" alt="EmpMap"/><br>
   
     
-El problema que se plantea es al falta del 4U Hostel para la realización de eventos. Con esta propuesta el valor turístico del hostel podría incrementar y ser más que solamente hospedar a turistas.
+El problema que se plantea es la falta de entretenimiento del 4U Hostel. Con esta propuesta el valor turístico del hostel podría incrementar y ser más que solamente hospedar a turistas.
 
-Se plantea que en el área del bar/restaurante del hostel se hagan distintas actividades haciendo así que tanto turistas como locales puedan vivir una experiencia. No solamente las personas hispanohablantes van a poder disfrutar de esto sino cualquier persona como por ejemplo noches de conciertos en vivo, no necesitas entender la música para sentirla.
+Se plantea que en el área de bar/restaurante del hostel se hagan distintas actividades, de modo que tanto turistas como locales puedan vivir una experiencia. No solamente las personas hispanohablantes van a poder disfrutar de esto sino cualquier persona; por ejemplo, noches de conciertos en vivo: no necesitas entender la música para sentirla.
 
-Tipos de eventos a realizar
-  -StandUp Comedy
-  -Conciertos en vivo
+Tipos de eventos a realizar:
+  - StandUp Comedy
+  - Conciertos en vivo
+  - Intercambios lingüísticos
 
 
-
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+### ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-<br><img src="/img/ScopeCanvas.jpg" alt="Scopte"/>
+<br><img src="/img/ScopeCanvas.jpg" alt="Scopte"/><br>
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+
+### ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-
-Analisis de tareas:
-<br><img src="/img/TaskAnalysis.JPG" alt="TaskAn"/>
+<br><img src="/img/TaskAnalysis.JPG" alt="TaskAn"/><br>
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+### ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 Sitemap:
-<br><img src="/img/SiteMap.jpg" alt="SiteMap"/>
+<br><img src="/img/SiteMap.jpg" alt="SiteMap"/><br>
 
->>> Identificar términos para diálogo con usuario  
+#### Identificar términos para diálogo con usuario:
 
 Término | Significado     
 | ------------- | -------
-  Home  | Página principal, información sobre los eventos (monólogos, música en vivo, intercambio culturales) que se van a llevar a cabo
+ Home  | Página principal, información sobre los eventos (monólogos, música en vivo, intercambio culturales) que se van a llevar a cabo
  Reserva  | Página que permite la reserva de un asiento (si hay disponibles) en el evento.
  Ayuda  | Preguntas frecuentes y formulario de contacto
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+### ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 <img src="/img/MicroSite1.jpg" alt="Micro1"/>
@@ -125,30 +127,29 @@ Moodboard:
 <img src="/img/Moodboard.JPG" alt="Moodboard"/><br>
 
 Se decide seguir con la misma paleta de colores que la página principal del 4U Hostel.
-Solamente se modificó el logo para que en vez de decir 4U Hostel o 4U Restaurant diga 4U Eventos ya que es la actividad que planteamos para subir el valor turístico
+Solamente se modificó el logo para que en vez de decir "4U Hostel" o "4U Restaurant" diga "4U Eventos", ya que es la actividad que planteamos para subir el valor turístico.
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+### ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 <img src="/img/LandingPage.jpg" alt="Moodboard"/><br>
 
- 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+### ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 
 
 >>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-![Método UX](img/mockup.png)  3.d Mockup
+### ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
@@ -159,14 +160,14 @@ Solamente se modificó el logo para que en vez de decir 4U Hostel o 4U Restauran
 ## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) 4.a Caso asignado
+### ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+### ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -180,7 +181,7 @@ Solamente se modificó el logo para que en vez de decir 4U Hostel o 4U Restauran
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+### ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -190,7 +191,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
