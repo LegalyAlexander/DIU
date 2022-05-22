@@ -54,7 +54,7 @@ Se eligió este Journey Map para Danna porque para una influencer grabar en un n
 #### Journey Map Luis:
 <img src="/img/journey map_page-0001.jpg" alt="JourneyLuis"/><br>
 
-En Luis se eligió ese Journey Map ya que, como es introvertido, no se quedaría en un hostel por sí mismo sino que viajaría con sus amigos, que le darán un empujoncito. En este Journey Map se pone a prueba la capacidad del Hostel para lidiar con su problema auditivo y su personalidad introvertida.
+En Luis se eligió ese Journey Map ya que, como es introvertido, no se quedaría en un hostel por sí mismo sino que viajaría con sus amigos, que le darían un empujoncito. En este Journey Map se pone a prueba la capacidad del Hostel para lidiar con su problema auditivo y su personalidad introvertida.
 
 ### ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
