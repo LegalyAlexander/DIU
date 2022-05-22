@@ -144,17 +144,13 @@ Solamente se modificó el logo para que en vez de decir "4U Hostel" o "4U Restau
 >>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
-----
+----  https://www.figma.com/file/s646aeXT3ETRULkHgWaynG/Hostel-4u-eventos?node-id=0%3A1
+<img src="/img/Home.jpg" alt="HomeMockup"/><br>
+<img src="/img/Contacta.jpg" alt="Contacta"/><br>
+<img src="/img/Reserva.jpg" alt="Contacta"/><br>
+<img src="/img/Pago.jpg" alt="Contacta"/><br>
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
