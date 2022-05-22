@@ -9,7 +9,7 @@ Proyecto:
 
 Descripción: 
 
-El hostel ahora aumentará su valor turístico ofreciendo a todo tipo de personas eventos semanales. Los eventos pueden ser desde standups de comedia, mini conciertos en vivo o cualquier actividad que pueda ofrecer una nueva experiencia a los usuarios.
+Pretendemos aumentar el valor turístico del hostel ofreciendo a todo tipo de personas eventos semanales. Los eventos pueden ser desde standups de comedia, mini conciertos en vivo o cualquier actividad que pueda ofrecer una nueva experiencia a los usuarios.
 
 Logotipo: 
 <br><img src="/img/4U_Eventos.jpg" alt="Eventos4U"/>
@@ -29,31 +29,29 @@ Miembros
 ----- 
 
 Los hosteles elegidos para el Análisis de Competitividad fueron:
-St. Cristopher Barcelona
-TOC Hostel Madrid
+- St. Cristopher (Barcelona)
+- TOC Hostel (Madrid)
 
-Estos hosteles fueron elegidos ya que al igual que 4UHostel se encuentran en la zona central de sus respectivas ciudades, normalmente por las valoraciones vistas en sus páginas los usuarios que se suelen alojar en estos son personas jóvenes.
+Estos hosteles fueron elegidos ya que, al igual que el 4UHostel, se encuentran en la zona central de sus respectivas ciudades. Por las valoraciones vistas en sus páginas, los usuarios que se suelen alojar en estos son personas jóvenes.
 
-Dentro de los tres hosteles el elegido fue el 4U Hostel ya que es una mejor calidad/precio respecto a los otros dos anteriores, además le suma un valor que tenga un parking cerca. Los otros hosteles suelen rondar por un precio mayor y sus páginas de reserva suelen ser confusas
+Dentro de los tres hosteles sobresalió el 4U Hostel ya que es una mejor calidad/precio respecto a los otros dos anteriores. Además, su cercanía a un parking le suma valor. Los otros hosteles suelen rondar por un precio mayor y sus páginas de reserva suelen ser confusas
 
 ![Método UX](img/Persona.png) 1.b Persona
 <img src="/img/Persona1.jpg" alt="Danna"/><br>
-Primero que todo hemos seleccionado a Danna ya que su personalidad es bastante extrovertida al ser una influencer, que le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas.
+Seleccionamos a Danna por su personalidad: al ser una influencer es bastante extrovertida, le gusta viajar y compartir con todos sus nuevas experiencias y momentos vividos. En un espacio como el 4U Hostel Danna tendrá la oportunidad de conocer a nuevas personas y a hacer los aesthetic vlogs (blogs de youtube con una estética bonita) que tanto le gustan.
 <img src="/img/Persona2.jpg" alt="Luis"/><br>
-De segundo hemos elegido a Luis ya que aunque sea un poco introvertido quiere salir y conocer nuevos lugares con sus amigos, además su discapacidad auditiva muchas veces puede ser un reto para reservar en lugares como 4U Hostel
+De segundo hemos elegido a Luis ya que, aunque sea un poco introvertido, quiere salir y conocer nuevos lugares con sus amigos. También es debido a su discapacidad auditiva, que muchas veces puede ser un reto para reservar en lugares como 4U Hostel.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 Journey Map Danna:
 <img src="/img/journey map_page-0002.jpg" alt="JourneyDanna"/><br>
 
+Se eligió este Journey Map para Danna porque para una influencer grabar en un nuevo sitio siempre es bueno, pero Danna necesita la información del lugar mientras realiza su reserva, al ir a un lugar que no conoce le gustaría saber todo lo posible del sitio y para ello pregunta al personal.
+
 Journey Map Luis:
 <img src="/img/journey map_page-0001.jpg" alt="JourneyLuis"/><br>
 
-
-
-En Danna se eligió este Journey Map porque para una influencer grabar en un nuevo sitio siempre es bueno, pero Danna necesita la información del lugar mientras realiza su reserva, al ir a un lugar que no conoce le gustaría saber de parte del personal todo lo principal del sitio.
-
-En Luis se eligió ese Journey Map ya que como él es introvertido no se quedaría en un hostel solo sino que viajará con sus amigos, en este Journey Map se pone a prueba la capacidad del Hostel para poder así lidiar con su problema auditivo
+En Luis se eligió ese Journey Map ya que, como es introvertido, no se quedaría en un hostel por sí mismo sino que viajará con sus amigos, que le darán un empujoncito. En este Journey Map se pone a prueba la capacidad del Hostel para lidiar con su problema auditivo y su personalidad introvertida.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
