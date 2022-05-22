@@ -137,11 +137,7 @@ Solamente se modificó el logo para que en vez de decir "4U Hostel" o "4U Restau
 
 ### ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
-
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Se creará un diseño web para poder acceder a la página de eventos a realizar en la página. Se utilizarán varios tipos de formularios para las reservas, así como diferentes botones que redirigirán a otras ventanas. Usamos el Getting Input para la introducción de los datos.
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
 ----  https://www.figma.com/file/s646aeXT3ETRULkHgWaynG/Hostel-4u-eventos?node-id=0%3A1
