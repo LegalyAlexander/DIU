@@ -155,44 +155,37 @@ Se creará un diseño web para poder acceder a la página de eventos. Se utiliza
 
 
 ### ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
+El caso asignado fue el del grupo: <a href="https://github.com/Javidroid/DIU">DIU3_06<a/>
 
+Es un website del restaurante del 4UHostel en el cual puedes realizar reservas y consultar fechas y mesas, así de como está distribuido el lugar.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Como lo hemos descrito en las conclusiones del A/B Test un website bastante simple y sencillo, pero con las funciones básicas y necesarias. Se destacan las 3 opciones más importantes como son Spanish Cuisine que describe un poco el estilo del restaurante, Booking para hacer las reservas y Menu que es el menú que se sirve que sería de interés para las personas que visiten el lugar.
+
 
 
 ### ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Miguel Ariza  | H / 20   | Estudiante  | Avanzado       | Joven/Trabajador/Alegre | Web.       | A 
+| Zoraya Rojas  | M / 43   | Contable  | Intermedia       | Adulto/Trabajadora/Introvertido       | Web        | A 
+| Ioan Mihnea Vidican  | H / 20   | Estudiante     | Avanzado        | Joven/Estudiante/Extrovertido    | Web      | B 
+| Cristal Collado  | M / 25   | Bioquimica  | Intermedio       | Adulto/Responsable/Trabajadora     | Web        | B 
 
 
 ### ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+<img src="/img/ABTesting.jpg" alt="ab"/><br>
+<img src="/img/ABTesting2.jpg" alt="ab2"/><br>
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
-----
+El informe del Usability Report se puede encontrar en
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+  <a href="https://github.com/LegalyAlexander/DIU/blob/master/P4/Usability_Report_DIU3_06.pdf">UsabilityReport</a>
 
-
-
->>> Valoración personal 
+El prototipo cumple con los requisitos necesarios para hacer una reserva, se puede navegar intuitivamente con un conocimiento medio/avanzado, pero a lo mejor para alguien quien no tiene mucho conocimiento puede lograr a dificultarse en alguna opción. Algo que a lo mejor se puede mejorar es el tipo de letra tal vez ponerla un poco más llamativa porque es muy delgada y para personas con alguna discapacidad visual puede resultarle un poco difícil.
+Dejando un lado esto el prototipo presenta todo correctamente.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
